@@ -17,3 +17,9 @@ In this Repository about Azure Cloud. In here I made document about Basic termin
 11. Manage costs in Azure
 12. Architecting applications for Azure
 13. How to migrate existing applications to Azure
+
+## Document 01
+
+Discussed About - Why need Cloud, Characteristics of Cloud Computing, CapEx and OpEx, Types of Cloud Service. IaaS,PaaS,SaaS,1.	FaaS ,DBaaS, DaaS, IOTaaS,AIaaS, Types Of Cloud- public, private and hybrid,Main Cloud Providers 
+<br> <br>
+![blobid51](https://github.com/778569/Microsoft-Azure/assets/52319671/74eb2257-e44d-4b33-bab2-67595f219592)
